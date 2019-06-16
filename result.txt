@@ -1,0 +1,2 @@
+Result: Max - Min - Avr - Standard Deviation
+Executive: 117 - 27 - 30.1568708431 - 2.96495391583
